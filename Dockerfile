@@ -4,4 +4,4 @@ COPY index.html /usr/share/nginx/html/index.html
 COPY car.jpg /usr/share/nginx/html/car.jpg
 
 
-EXPOSE 90
+EXPOSE 100
